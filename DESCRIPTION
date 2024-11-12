@@ -1,10 +1,10 @@
 Package: shubhamPalette
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Title: Custom Palettes and Themes
+Version: 0.1.0
 Authors@R: 
     person("Shubham", "Dutta", , "shubhamdutta26@gmail.com", role = c("aut", "cre", "cph"),
            comment = c(ORCID = "0000-0001-8484-0717"))
-Description: What the package does (one paragraph).
+Description: Custom palettes and ggplot2 themes.
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
