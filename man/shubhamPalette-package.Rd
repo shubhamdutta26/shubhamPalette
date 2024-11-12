@@ -4,9 +4,17 @@
 \name{shubhamPalette-package}
 \alias{shubhamPalette}
 \alias{shubhamPalette-package}
-\title{shubhamPalette: What the Package Does (One Line, Title Case)}
+\title{shubhamPalette: Custom Palettes and Themes}
 \description{
-What the package does (one paragraph).
+Custom palettes and ggplot2 themes.
+}
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/shubhamdutta26/shubhamPalette}
+  \item Report bugs at \url{https://github.com/shubhamdutta26/shubhamPalette/issues}
+}
+
 }
 \author{
 \strong{Maintainer}: Shubham Dutta \email{shubhamdutta26@gmail.com} (\href{https://orcid.org/0000-0001-8484-0717}{ORCID}) [copyright holder]
