@@ -12,3 +12,5 @@ Imports:
     ggplot2,
     rlang
 License: MIT + file LICENSE
+URL: https://github.com/shubhamdutta26/shubhamPalette
+BugReports: https://github.com/shubhamdutta26/shubhamPalette/issues
